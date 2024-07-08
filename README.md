@@ -1,4 +1,4 @@
-# Thermal Udder Segmentation for Mastitis Prediction
+# Resilient Thermal Udder Segmentation from Noisy Image Data for Mastitis Prediction
 
 This repository presents a comprehensive approach to thermal segmentation for mastitis prediction in buffaloes, emphasizing resilient learning on the edge from incomplete or noisy data. The segmentation task focuses on identifying the udder region within thermal images, which is crucial for accurate mastitis assessment. The implemented solution integrates several key strategies to enhance segmentation performance and robustness.
 
