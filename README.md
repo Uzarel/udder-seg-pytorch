@@ -25,7 +25,7 @@ The repository includes a dataset (`buffalo_data`) containing processed images o
    - The dataset includes plots showing the evolution of maximum temperatures throughout each milking session. Temperatures identified as outliers for the current milking are removed according to the Interquartile Range (IQR) method, facilitating cleaner and more accurate temporal analysis and tracking of individual buffaloes.
 
 2. **Example Prediction Image:**
-   ![Example Prediction](buffalo_data/910/2024-01-26 17.02.00+01.00/0_img_20240126_170719_710.jpg)
+   ![Example Prediction](assets/udder-seg.jpg)
 
 ## Project Structure
 
