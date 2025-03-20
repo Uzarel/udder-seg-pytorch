@@ -34,3 +34,6 @@ The repository includes a dataset (`buffalo_data`) containing processed images o
 
 2. **Testing:**
    - Execute the testing notebook (`testing.ipynb`) to evaluate the trained model on test data.
+
+3. **Multi-Task Network (MTN):**
+   - The notebook (`mtn.ipynb`) is designed for a multi-task network setup, where only the segmentation of clean images over obstructed ones is considered, making it a segmentation task in addition to classification. This approach enables the model to learn robust segmentation features while simultaneously performing classification tasks, improving generalization across different data conditions.
